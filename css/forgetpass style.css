@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(../image/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.password h1{
+    font-family: 'Moo Lah Lah', cursive;
+font-family: 'Mountains of Christmas', cursive;
+    color: rgba(221, 105, 10, 0.938);
+    text-align: center;
+    margin:  50px ;
+    padding: 0 0 20px;
+
+}
+body form{
+    text-align: center;
+    color: rgb(251, 255, 0);
+}
+body input.submit{
+    background-color: coral;
+}

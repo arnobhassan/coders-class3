@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    background-image: url(../image/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: coral;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background:url(..//image/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+     
+}
+body .loginbox{
+    margin: 220px 400px 200px;
+    padding: 5px 500px;
+    background-color:rgba(204, 136, 26, 0.185)
+ 
+ 
+}
+h2{
+    color: red;
+     text-align:center;
+    margin: 0;
+    padding: 0  0 20px;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Satisfy', cursive;
+        
+}
+.loginbox{
+    text-align: center;
+    width: 320px;
+    height: 420px;
+    background:blue;
+    color: rgb(11, 233, 214);
+    top: 50%;
+    left: 50%;
+    transform: translate(50%-50%);
+     
+}
